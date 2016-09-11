@@ -1,0 +1,58 @@
+ [INFO ] 2016.09.11-22:25:48 [basic-scala-console-app][@lp-nl-host] [32016] # -------------------------------------- 
+ [INFO ] 2016.09.11-22:25:48 [basic-scala-console-app][@lp-nl-host] [32016] # ----------------------- 
+ [INFO ] 2016.09.11-22:25:48 [basic-scala-console-app][@lp-nl-host] [32016] # === START MAIN === basic-scala-console-app 
+ [INFO ] 2016.09.11-22:25:48 [basic-scala-console-app][@lp-nl-host] [32016] # ----------------------- 
+ [INFO ] 2016.09.11-22:25:48 [basic-scala-console-app][@lp-nl-host] [32016] # -------------------------------------- 
+ [INFO ] 2016.09.11-22:25:48 [basic-scala-console-app][@lp-nl-host] [32016] using the following vars: 
+ [action:] 2016.09.11-22:25:48 [basic-scala-console-app][@lp-nl-host] [32016] "sbt-clean-compile" 
+ [running] 2016.09.11-22:25:48 [basic-scala-console-app][@lp-nl-host] [32016] action :: sbt-clean-compile:doSbtCleanCompile 
+ [INFO ] 2016.09.11-22:25:48 [basic-scala-console-app][@lp-nl-host] [32016] == START == doSbtCleanCompile 
+ [using] 2016.09.11-22:25:48 [basic-scala-console-app][@lp-nl-host] [32016] the following java binary:: /usr/bin/java 
+ [using] 2016.09.11-22:25:48 [basic-scala-console-app][@lp-nl-host] [32016] the following java version:: 
+ [using] 2016.09.11-22:25:48 [basic-scala-console-app][@lp-nl-host] [32016] the following sbt binary::/usr/bin/sbt 
+ [using] 2016.09.11-22:25:48 [basic-scala-console-app][@lp-nl-host] [32016] the following sbt version 
+ [running] 2016.09.11-22:26:04 [basic-scala-console-app][@lp-nl-host] [32016] sbt clean 
+ [inspect] 2016.09.11-22:26:08 [basic-scala-console-app][@lp-nl-host] [32016] the libary dependancies 
+ [print] 2016.09.11-22:26:12 [basic-scala-console-app][@lp-nl-host] [32016] the exported classpath, consisting of build products 
+ [and] 2016.09.11-22:26:12 [basic-scala-console-app][@lp-nl-host] [32016] unmanaged and managed, internal and external dependencies. 
+ [running] 2016.09.11-22:26:21 [basic-scala-console-app][@lp-nl-host] [32016] sbt compile 
+ [INFO ] 2016.09.11-22:26:25 [basic-scala-console-app][@lp-nl-host] [32016] == STOP == doSbtCleanCompile NO Errors !!! 
+ [INFO ] 2016.09.11-22:26:25 [basic-scala-console-app][@lp-nl-host] [32016] 0 # = STOP MAIN = basic-scala-console-app 
+ [INFO ] 2016.09.11-22:26:31 [basic-scala-console-app][@lp-nl-host] [793] # -------------------------------------- 
+ [INFO ] 2016.09.11-22:26:31 [basic-scala-console-app][@lp-nl-host] [793] # ----------------------- 
+ [INFO ] 2016.09.11-22:26:31 [basic-scala-console-app][@lp-nl-host] [793] # === START MAIN === basic-scala-console-app 
+ [INFO ] 2016.09.11-22:26:31 [basic-scala-console-app][@lp-nl-host] [793] # ----------------------- 
+ [INFO ] 2016.09.11-22:26:31 [basic-scala-console-app][@lp-nl-host] [793] # -------------------------------------- 
+ [INFO ] 2016.09.11-22:26:31 [basic-scala-console-app][@lp-nl-host] [793] using the following vars: 
+ [action:] 2016.09.11-22:26:31 [basic-scala-console-app][@lp-nl-host] [793] "sbt-compile" 
+ [running] 2016.09.11-22:26:31 [basic-scala-console-app][@lp-nl-host] [793] action :: sbt-compile:doSbtCompile 
+ [INFO ] 2016.09.11-22:26:31 [basic-scala-console-app][@lp-nl-host] [793] == START == doSbtCompile 
+ [using] 2016.09.11-22:26:31 [basic-scala-console-app][@lp-nl-host] [793] the following java binary:: /usr/bin/java 
+ [using] 2016.09.11-22:26:31 [basic-scala-console-app][@lp-nl-host] [793] the following java version:: 
+ [using] 2016.09.11-22:26:31 [basic-scala-console-app][@lp-nl-host] [793] the following sbt binary::/usr/bin/sbt 
+ [using] 2016.09.11-22:26:31 [basic-scala-console-app][@lp-nl-host] [793] the following sbt version 
+ [inspect] 2016.09.11-22:26:40 [basic-scala-console-app][@lp-nl-host] [793] the libary dependancies 
+ [print] 2016.09.11-22:26:44 [basic-scala-console-app][@lp-nl-host] [793] the exported classpath, consisting of build products 
+ [and] 2016.09.11-22:26:44 [basic-scala-console-app][@lp-nl-host] [793] unmanaged and managed, internal and external dependencies. 
+ [running] 2016.09.11-22:26:49 [basic-scala-console-app][@lp-nl-host] [793] sbt compile 
+ [INFO ] 2016.09.11-22:26:53 [basic-scala-console-app][@lp-nl-host] [793] == STOP == doSbtCompile NO Errors !!! 
+ [INFO ] 2016.09.11-22:26:53 [basic-scala-console-app][@lp-nl-host] [793] 0 # = STOP MAIN = basic-scala-console-app 
+ [INFO ] 2016.09.11-22:26:59 [basic-scala-console-app][@lp-nl-host] [1903] # -------------------------------------- 
+ [INFO ] 2016.09.11-22:26:59 [basic-scala-console-app][@lp-nl-host] [1903] # ----------------------- 
+ [INFO ] 2016.09.11-22:26:59 [basic-scala-console-app][@lp-nl-host] [1903] # === START MAIN === basic-scala-console-app 
+ [INFO ] 2016.09.11-22:26:59 [basic-scala-console-app][@lp-nl-host] [1903] # ----------------------- 
+ [INFO ] 2016.09.11-22:26:59 [basic-scala-console-app][@lp-nl-host] [1903] # -------------------------------------- 
+ [INFO ] 2016.09.11-22:26:59 [basic-scala-console-app][@lp-nl-host] [1903] using the following vars: 
+ [action:] 2016.09.11-22:26:59 [basic-scala-console-app][@lp-nl-host] [1903] "sbt-run" 
+ [running] 2016.09.11-22:27:00 [basic-scala-console-app][@lp-nl-host] [1903] action :: sbt-run:doSbtRun 
+ [INFO ] 2016.09.11-22:27:00 [basic-scala-console-app][@lp-nl-host] [1903] == START == doSbtRun 
+ [using] 2016.09.11-22:27:00 [basic-scala-console-app][@lp-nl-host] [1903] the following java binary:: /usr/bin/java 
+ [using] 2016.09.11-22:27:00 [basic-scala-console-app][@lp-nl-host] [1903] the following java version:: 
+ [using] 2016.09.11-22:27:00 [basic-scala-console-app][@lp-nl-host] [1903] the following sbt version 
+ [using] 2016.09.11-22:27:09 [basic-scala-console-app][@lp-nl-host] [1903] the following sbt binary:: /usr/bin/sbt 
+ [using] 2016.09.11-22:27:09 [basic-scala-console-app][@lp-nl-host] [1903] the following sbt version 
+ [print] 2016.09.11-22:27:13 [basic-scala-console-app][@lp-nl-host] [1903] the class path 
+ [running:] 2016.09.11-22:27:17 [basic-scala-console-app][@lp-nl-host] [1903] sbt run 
+ [check] 2016.09.11-22:27:22 [basic-scala-console-app][@lp-nl-host] [1903] also the scala log file/opt/futu/basic-scala-console-app/basic-scala-console-app.1.0.0.prd.ysg/data/log/scala/basic-scala-console-app.log 
+ [INFO ] 2016.09.11-22:27:22 [basic-scala-console-app][@lp-nl-host] [1903] == STOP == sbt-run NO Errors !!! 
+ [INFO ] 2016.09.11-22:27:22 [basic-scala-console-app][@lp-nl-host] [1903] 0 # = STOP MAIN = basic-scala-console-app 

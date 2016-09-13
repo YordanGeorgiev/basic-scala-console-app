@@ -1,7 +1,0 @@
-[INFO ] 2016-09-11 22:27:22.054 [run-main-0] [scala.App] -  START -- basic scala console App
-[INFO ] 2016-09-11 22:27:22.056 [run-main-0] [Pizza] - Hello from the Pizza class
-[WARN ] 2016-09-11 22:27:22.056 [run-main-0] [scala.App] - this is a warn msg
-[INFO ] 2016-09-11 22:27:22.056 [run-main-0] [scala.App] - this is an info msg 
-[DEBUG] 2016-09-11 22:27:22.056 [run-main-0] [scala.App] - this is a debug msg
-[ERROR] 2016-09-11 22:27:22.056 [run-main-0] [scala.App] - this is an error msg
-[INFO ] 2016-09-11 22:27:22.057 [run-main-0] [scala.App] -  STOP  -- basic scala console App

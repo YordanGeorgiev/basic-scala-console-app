@@ -10,7 +10,7 @@ It might help you configure your environment better as well as understand the sc
      git clone git@github.com:YordanGeorgiev/basic-scala-console-app.git
 
      # to the dev dir
-     cd /opt/basic-scala-console-app/basic-scala-console-app.1.0.0.dev.ysg/
+     cd /opt/basic-scala-console-app/basic-scala-console-app.1.0.1.dev.ysg/
      
      # run the sbt-clean-compile
      bash sfw/bash/basic-scala-console-app/basic-scala-console-app.sh -a sbt-clean-compile

@@ -1,1 +1,0 @@
-Index.PACKAGES = {"app" : [{"object" : "app\/Main$.html", "name" : "app.Main"}], "app.utils" : [{"case class" : "app\/utils\/Configurator.html", "name" : "app.utils.Configurator"}]};

@@ -10,7 +10,7 @@ It might help you configure your environment better as well as understand the sc
      git clone git@github.com:YordanGeorgiev/basic-scala-console-app.git
 
      # to the dev dir of the latest version
-     cd /opt/basic-scala-console-app/basic-scala-console-app.1.0.2.dev.ysg/
+     cd /opt/basic-scala-console-app
      
      # run the sbt-clean-compile
      bash sfw/bash/basic-scala-console-app/basic-scala-console-app.sh -a sbt-clean-compile
@@ -29,3 +29,6 @@ It might help you configure your environment better as well as understand the sc
 
 	  # you could combile shells actions like this 
      bash sfw/bash/basic-scala-console-app/basic-scala-console-app.sh -a sbt-stage -a jar-run
+
+	  # for more info on the usage of the commands:
+	  bash sfw/bash/basic-scala-console-app/basic-scala-console-app.sh --usage
